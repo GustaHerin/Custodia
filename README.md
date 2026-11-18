@@ -4,7 +4,7 @@
 [![Autor Único](https://img.shields.io/badge/Autor%20e%20Dev%20Único-%40GustaHerin-181717?logo=github)](https://github.com/GustaHerin)
 [![.NET 10](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet&logoColor=white)](#arquitetura-e-tecnologias)
 [![Avalonia UI](https://img.shields.io/badge/Avalonia%20UI-11.3.8-8B44AC)](#arquitetura-e-tecnologias)
-[![Licença MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Licença](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)](LICENSE)
 
 > **Repositório empresarial oficial:** [`https://github.com/TundraLab/TundraDrive`](https://github.com/TundraLab/TundraDrive)
 
@@ -42,5 +42,15 @@ Este repositório pessoal serve como vitrine de portfólio e referência públic
 | **Qualidade e Distribuição** | Testes automatizados com xUnit e empacotamento Linux (`AppImage x86_64`, `.rpm` e `.deb`) |
 
 ---
+
+## Licença e Propriedade Intelectual
+
+**Todos os Direitos Reservados (`All Rights Reserved`)**
+Copyright © 2026 **TundraLab** e **Gustavo Henrique Novaes Gomes** ([`@GustaHerin`](https://github.com/GustaHerin)).
+
+- **Código-fonte (Portfólio e Auditoria):** Este projeto é exibido publicamente apenas para leitura, avaliação técnica e portfólio. Não é concedida permissão para copiar, modificar, redistribuir ou utilizar o código-fonte (no todo ou em parte) para fins comerciais ou projetos externos sem autorização prévia por escrito.
+- **Uso dos pacotes oficiais (`.AppImage` / `.rpm`):** Usuários finais podem baixar, instalar e executar gratuitamente os instaladores oficiais publicados em **TundraLab/TundraDrive** para uso pessoal ou corporativo interno, sendo vedada a redistribuição ou modificação comercial.
+
+Consulte os termos completos em [LICENSE](LICENSE).
 
 Para acessar o projeto oficial na organização: **[github.com/TundraLab/TundraDrive](https://github.com/TundraLab/TundraDrive)**
