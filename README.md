@@ -15,10 +15,3 @@ O código-fonte completo, o guia de configuração e os instaladores oficiais (`
 - **Repositório principal:** [github.com/TundraLab/Custodia](https://github.com/TundraLab/Custodia)
 - **Download da versão mais recente:** [github.com/TundraLab/Custodia/releases/latest](https://github.com/TundraLab/Custodia/releases/latest)
 
-### Instalação rápida no terminal
-
-```bash
-curl -fsSL https://github.com/TundraLab/Custodia/releases/latest/download/Custodia-Installer-x86_64.sh -o install-custodia.sh
-chmod +x install-custodia.sh
-./install-custodia.sh
-```
